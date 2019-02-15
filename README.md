@@ -11,7 +11,7 @@ python scripts used to scrape PA Election Results for PCNTV on air results graph
   - Copy the address url
   - Go to your scripts directory 
   - look for gov.py to use a template 
-  - update the url variable with the adress you copied earlier
+  - update the url variable with the address you copied earlier
   - Go to the gov_vote section and update the last names of the candidates for the vote and percentage, names and party
   - In the names section you type out how you want the name to display in the final graphic
   - If there are less then 4 candidates or more you will need to updat the Sorting section
